@@ -1,4 +1,4 @@
-# Alpha_exporter
+# Alpha_graphs
 
 Written by Eva C. Herbst
 
